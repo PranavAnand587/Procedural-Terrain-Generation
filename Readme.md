@@ -19,7 +19,7 @@ pip install noise numpy pyopengl matplotlib
 1. Ensure all dependencies are installed.
 2. Run the script using Python:
 ```bash
-python your_script_name.py
+python render.py
 ```
 
 3. Use the following keys for navigation:
